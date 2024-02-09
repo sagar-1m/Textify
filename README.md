@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Getting Started with Textify
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>
+Textify is a text analyzer web application <br>
+in this, you can count words and characters of your text also <br>
+and others features too.
+<br>
+TAP THIS LINK FOR WEBSITE
+<a href="#"  https://sagar-1m.github.io/Textify/ target="blank">
 
 ## Available Scripts
 
