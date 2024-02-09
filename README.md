@@ -5,8 +5,8 @@ Textify is a text analyzer web application <br>
 in this, you can count words and characters of your text also <br>
 and others features too.
 <br>
-TAP THIS LINK FOR WEBSITE
-<a href="#"  https://sagar-1m.github.io/Textify/ target="blank">
+[TAP THIS LINK FOR WEBSITE]
+( https://sagar-1m.github.io/Textify/)
 
 ## Available Scripts
 
