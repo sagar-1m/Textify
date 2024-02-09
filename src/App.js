@@ -24,13 +24,13 @@ function App() {
       setMode('dark');
       document.body.style.backgroundColor = '#042743';
       showAlert("Dark mode has been enable", "success")
-      document.title = "Textify - Dark Mode";
+      // document.title = "Textify - Dark Mode";
     }
     else{
       setMode('light');
       document.body.style.backgroundColor = 'white';
       showAlert("Light mode has been enable", "success")
-      document.title = "Textify - Light Mode";
+      // document.title = "Textify - Light Mode";
     }
   }
   return (
@@ -40,7 +40,7 @@ function App() {
     <Navbar title="Textify" mode={mode} toggleMode={toggleMode} />
     <Alert alert= {alert}/>
     <div className="container my-3">
-    <TextForm showAlert={showAlert} heading="Enter the text below to Analyze" mode={mode}/>
+    <TextForm showAlert={showAlert} heading="Try Textify - Word Counter, Character counter, Remove extra spaces" mode={mode}/>
     
     </div>
     </> 
