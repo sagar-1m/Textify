@@ -4,7 +4,6 @@ import TextForm from './components/TextForm';
 import Alert from './components/Alert';
 import React, { useState } from 'react';
 
-
  
 function App() {
   const [mode, setMode] = useState('light'); // Whether dark mode is enabled or not
